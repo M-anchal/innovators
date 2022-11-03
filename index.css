@@ -169,7 +169,7 @@ img{
     padding-left: 12px;
 }
 .sign-up, .log-in{
-    background: var(--yellow);
+    background: #f94242;
     color: #fff;
 }
 @media(max-width: 400px){
