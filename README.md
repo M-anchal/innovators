@@ -1,6 +1,6 @@
-# Hack36 Template Readme
 
-<a href="https://hack36.com"> <img src="https://i.postimg.cc/RFFWF4vg/built-at-hack.jpg" height=24px> </a>
+
+<a href=""> <img src="https://user-images.githubusercontent.com/79806185/228286238-f89b0187-bd25-4c02-8fd7-756ca06ccfec.png" height=240px> </a>
 
 
   ## Team Name: INNOVATORS<Br>
@@ -31,4 +31,4 @@ Hotel Transylvania is place where monsters and their families can live it up and
 4.[Aditi Kumari]
 # Made at:<Br>  
   
-<a href="https://hack36.com"> <img src="" height=24px> </a>
+<a href=""> <img src="https://user-images.githubusercontent.com/79806185/228286238-f89b0187-bd25-4c02-8fd7-756ca06ccfec.png" height=240px> </a>
