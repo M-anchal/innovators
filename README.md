@@ -26,8 +26,8 @@ Hotel Transylvania is place where monsters and their families can live it up and
   
   
 1.[Kirti Gupta](https://github.com/KirtiGupta3101)\
-2.[Anchal Mishra](https://github.com/M-anchal)
-3.[Nagendra Mishra](https://github.com/nagendracodes)
+2.[Anchal Mishra](https://github.com/M-anchal)\
+3.[Nagendra Mishra](https://github.com/nagendracodes)\
 4.[Aditi Kumari]
 # Made at:<Br>  
   
